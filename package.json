@@ -1,0 +1,50 @@
+{
+  "name": "gatsby-starter-default",
+  "description": "Gatsby default starter",
+  "version": "1.0.0",
+  "author": "Kyle Mathews <mathews.kyle@gmail.com>",
+  "dependencies": {
+    "disqus-react": "^1.0.5",
+    "find": "^0.2.9",
+    "gatsby": "^1.9.247",
+    "gatsby-link": "^1.6.40",
+    "gatsby-plugin-google-analytics": "^1.0.31",
+    "gatsby-plugin-manifest": "^1.0.27",
+    "gatsby-plugin-offline": "^1.0.18",
+    "gatsby-plugin-react-helmet": "^2.0.10",
+    "gatsby-remark-autolink-headers": "^1.4.19",
+    "gatsby-remark-copy-linked-files": "^1.5.37",
+    "gatsby-remark-images": "latest",
+    "gatsby-remark-prismjs": "latest",
+    "gatsby-source-filesystem": "latest",
+    "gatsby-transformer-json": "latest",
+    "gatsby-transformer-remark": "latest",
+    "gatsby-transformer-sharp": "latest",
+    "plugin": "^0.3.3",
+    "prismjs": "^1.15.0",
+    "react-helmet": "^5.2.0",
+    "react-instafeed": "^0.4.0",
+    "react-instagram-embed": "^1.4.0",
+    "react-redux": "^5.0.7",
+    "redux-devtools-extension": "^2.13.5",
+    "rehype-react": "^3.0.2",
+    "semantic-ui-react": "^0.81.3"
+  },
+  "keywords": [
+    "gatsby"
+  ],
+  "license": "MIT",
+  "scripts": {
+    "build": "gatsby build",
+    "develop": "gatsby develop",
+    "format": "prettier --write 'src/**/*.js'",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "devDependencies": {
+    "prettier": "^1.12.0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/gatsbyjs/gatsby-starter-default"
+  }
+}
