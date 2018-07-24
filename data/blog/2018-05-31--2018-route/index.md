@@ -11,6 +11,8 @@ image: szymon.jpg
 draft: false
 ---
 
+**Bike was stolen, plan has changed** Please read update [here](/blog/2018-07-24-walking-instead/)
+
 So we can announce plan for 2018 trip. We organised [club on Strava](https://www.strava.com/clubs/cyclingdevs) with
 details.
 
